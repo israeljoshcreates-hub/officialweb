@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Test Product",
+    "slug": "test-product",
+    "category": "general",
+    "price": 100,
+    "popularity": 1,
+    "flavors": ["vanilla", "chocolate"],
+    "variants": [
+      { "name": "Small", "stock": 10 },
+      { "name": "Large", "stock": 5 }
+    ],
+    "imageUrl": "https://via.placeholder.com/150",
+    "seo": {
+      "title": "Test Product",
+      "description": "A sample product for testing purposes"
+    }
+  }
+]

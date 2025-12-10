@@ -1,0 +1,9 @@
+[
+  {
+    "type": "percentage",
+    "value": 10,
+    "category": "general",
+    "active": true,
+    "productIds": ["test-product"]
+  }
+]
